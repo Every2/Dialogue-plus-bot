@@ -6,21 +6,21 @@ The open source bot of idol group Dialogue+
 
 ## Dependeces:
 
-*tweepy
+* tweepy
 
-*python-decouple
+* python-decouple
 
-*asyncio
+* asyncio
 
-*discord.py
+* discord.py
 
 ## Technologies:
 
-*Python
+* Python
 
-*Twitter api
+* Twitter api
 
-*Discord api
+* Discord api
 
 ## More:
 
