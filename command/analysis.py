@@ -7,12 +7,12 @@ class Analysis(commands.Cog):
    
     
 
-    @commands.command(name="analisemanat", help="Manatsu Murakami thinking")
+    @commands.command(name="analysisemanat", help="Manatsu Murakami thinking")
     async def manat_analise(self, ctx):
         url_manat="https://imgur.com/yJUIMLr"
         await ctx.send (url_manat)
         
-    @commands.command(name="analiseyuna", help="Yuna thinking")
+    @commands.command(name="analysisyuna", help="Yuna thinking")
     async def yuna_analise(self, ctx):
         url_yuna="https://imgur.com/yJUIMLr"
         await ctx.send (url_yuna)
@@ -21,19 +21,19 @@ class Analysis(commands.Cog):
 
     
 
-    @commands.command(name="sappyanalise", help="Miyamiya thinking")    
+    @commands.command(name="sappyanalysis", help="Miyamiya thinking")    
     async def miyamiya(self, ctx):
         url="https://imgur.com/a/L1di9ZJ"
         await ctx.send (url)
 
     
 
-    @commands.command(name="analiseyurina", help="Yurina thinking")
+    @commands.command(name="analysisyurina", help="Yurina thinking")
     async def yurinaanalise(self, ctx):
         url="https://imgur.com/fexZjBh"
         await ctx.send (url)
 
-    @commands.command(name="analisemayu", help="Mayu thinking")
+    @commands.command(name="analysismayu", help="Mayu thinking")
     async def mayunalise(self, ctx):
         url="https://imgur.com/tP3S5io"
         await ctx.send (url)    
@@ -42,17 +42,17 @@ class Analysis(commands.Cog):
 
 
 
-    @commands.command(name="analisenene", help="Nene thinking")
+    @commands.command(name="analysisnene", help="Nene thinking")
     async def analisenene(self, ctx):
         url="https://imgur.com/t9jUXCE"
         await ctx.send (url)    
 
-    @commands.command(name="analisekyoka", help="Kyoka thinking")
+    @commands.command(name="analysiskyoka", help="Kyoka thinking")
     async def analisekyoka(self, ctx):
         url="https://imgur.com/qJvowON"
         await ctx.send (url)
 
-    @commands.command(name="analiseayaka", help="Ayaka thinking")
+    @commands.command(name="analysisayaka", help="Ayaka thinking")
     async def analiseayaka(self, ctx):
         url="https://imgur.com/raUQwBp"
         await ctx.send (url)
