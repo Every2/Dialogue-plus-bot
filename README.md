@@ -14,6 +14,8 @@ The open source bot of idol group Dialogue+
 
 * discord.py
 
+* os
+
 ## Technologies:
 
 * Python
