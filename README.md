@@ -30,5 +30,7 @@ Jokes and if you want, it can send tweets of idols and staff accounts.
 
 ## More:
 
-If you want contribute fell free to send a pull request.
+* If you want contribute fell free to send a pull request.
+
+* If you want that bot send the tweets to you, you always will need put your discord channel id.
 
