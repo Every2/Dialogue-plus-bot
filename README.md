@@ -1,10 +1,10 @@
 # Dialogue-plus-bot
 
-What is this?
+## What is this?
 
 The open source bot of idol group Dialogue+
 
-Dependeces:
+## Dependeces:
 
 tweepy
 
@@ -12,7 +12,7 @@ python-decouple
 
 asyncio
 
-Technologies:
+## Technologies:
 
 Python
 
