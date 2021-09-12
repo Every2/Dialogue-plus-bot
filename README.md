@@ -4,6 +4,10 @@
 
 The open source bot of idol group Dialogue+
 
+## What bot do?
+
+Jokes and if you want, it can send tweets of idols and staff accounts. 
+
 ## Dependeces:
 
 * tweepy
@@ -27,3 +31,4 @@ The open source bot of idol group Dialogue+
 ## More:
 
 If you want contribute fell free to send a pull request.
+
