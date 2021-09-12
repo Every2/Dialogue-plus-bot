@@ -12,6 +12,8 @@ python-decouple
 
 asyncio
 
+discord.py
+
 ## Technologies:
 
 Python
