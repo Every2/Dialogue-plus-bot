@@ -64,10 +64,10 @@ class Manager(commands.Cog):
                                 await channel.send(f'New Tweets!!! https://twitter.com/user/status/{a}')
     
     
-consumer_key=config('ayafuwa_asterisk') 
-consumer_secret=config('jinseieasy') 
-access_token_key=config('private') 
-access_token_secret=config('omoideshirtiori') 
+consumer_key=config('') 
+consumer_secret=config('') 
+access_token_key=config('') 
+access_token_secret=config('') 
 
 
 def setup(bot):
