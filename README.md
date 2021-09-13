@@ -34,5 +34,5 @@ Jokes and if you want, it can send tweets of idols and staff accounts.
 
 * If you want that bot send the tweets to you, you always will need put your discord channel id.
 
-* I use the free version of twitter api, so when the bot reach 180 requests the api shutdown it and restart itself.
+* If you use the free version of twitter api when the bot reach 180 requests the api shutdown it and restart itself.
 
