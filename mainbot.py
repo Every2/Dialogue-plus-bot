@@ -15,9 +15,9 @@ def load_cogs(bot):
     
 load_cogs(bot)
 
-consumer_key=config() 
-consumer_secret=config() 
-access_token_key=config() 
-access_token_secret=config()  
-teken = config()
+consumer_key=config('') 
+consumer_secret=config('') 
+access_token_key=config('') 
+access_token_secret=config('')  
+teken = config('')
 bot.run() 
