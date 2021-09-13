@@ -9,7 +9,7 @@ class Analysis(commands.Cog):
 
     @commands.command(name="analysisemanat", help="Manatsu Murakami thinking")
     async def manat_analise(self, ctx):
-        url_manat="https://imgur.com/yJUIMLr"
+        url_manat="https://imgur.com/yS1dVaO"
         await ctx.send (url_manat)
         
     @commands.command(name="analysisyuna", help="Yuna thinking")
