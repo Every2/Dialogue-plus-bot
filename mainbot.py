@@ -10,7 +10,7 @@ def load_cogs(bot):
     for files in os.listdir('command'):
         if files.endswith('.py'):
             cog = files[:-3]
-            bot.load_extension(f'comandos.{cog}')
+            bot.load_extension(f'command.{cog}')
                         
     
 load_cogs(bot)
