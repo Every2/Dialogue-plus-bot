@@ -14,7 +14,7 @@ class Analysis(commands.Cog):
         
     @commands.command(name="analysisyuna", help="Yuna thinking")
     async def yuna_analise(self, ctx):
-        url_yuna="https://imgur.com/yJUIMLr"
+        url_yuna="https://imgur.com/mdcxJhK"
         await ctx.send (url_yuna)
     
 
