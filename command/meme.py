@@ -26,12 +26,12 @@ class Meme(commands.Cog):
         url_sappy="https://imgur.com/Cm87OK5"
         await ctx.send (url_sappy)
     
-    @commands.command(name="angrysappy", help="Sappy brava")
+    @commands.command(name="angrysappy", help="Angry sappy")
     async def angry_sappy(self, ctx):
         url_sappy="https://imgur.com/AfnFFoc"
         await ctx.send (url_sappy)
     
-    @commands.command(name="kyokapunch", help="Kyoka te dando um socão")
+    @commands.command(name="kyokapunch", help="Kyoka hit you")
     async def kyoka_punch(self, ctx):
         url_sappy="https://imgur.com/mmOBSq9"
         await ctx.send (url_sappy)
