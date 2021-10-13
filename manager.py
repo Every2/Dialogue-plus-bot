@@ -44,7 +44,7 @@ class Manager(commands.Cog):
 
                     for user in users_id:
                         print('Waiting')
-                        await asyncio.sleep(15)
+                        await asyncio.sleep(3)
                 
 
                         cursor=tweepy.Cursor(api.user_timeline,id=user, tweet_mode="extended",).items(1)
