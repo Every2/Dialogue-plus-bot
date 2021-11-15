@@ -13,7 +13,7 @@ class Talk(commands.Cog):
 
     @commands.command(name= "members", help="Members of group")
     async def members_group(self, ctx):
-        answer = "The members are " + "Ayaka Takamura, " + "Kyoka Moriya, " + "Mayu Iizuka, " + "Manatsu Murakami, " + "Nene Hieda , "+ "Satsuki Miyahara, " + "Yuna Ogata " + "e Yurina Uchiyama."
+        answer = f"The members are Ayaka Takamura, Kyoka Moriya, Mayu Iizuka, Manatsu Murakami, Nene Hieda, Satsuki Miyahara, Yuna Ogata and Yurina Uchiyama."
 
         await ctx.send (answer)
     
