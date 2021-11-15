@@ -35,6 +35,11 @@ class Meme(commands.Cog):
     async def kyoka_punch(self, ctx):
         url_sappy="https://imgur.com/mmOBSq9"
         await ctx.send (url_sappy)
+    
+    @commands.command(name="sadyurina", help="Sad Yurina")
+    async def sad_yurina(self, ctx):
+        url_yurina="https://imgur.com/RD2aT24"
+        await ctx.send (url_yurina)
 
                       
 def setup(bot):
