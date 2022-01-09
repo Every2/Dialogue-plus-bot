@@ -83,7 +83,7 @@ class Manager(commands.Cog):
                 
 
                         cursor=tweepy.Cursor(api.user_timeline,id=user, tweet_mode="extended",).items(1)
-                        channel = self.bot.get_channel(885246211446165526)
+                        channel = self.bot.get_channel()
                     
                     
                         for i in cursor:
