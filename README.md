@@ -10,15 +10,21 @@ Jokes and if you want, it can send tweets of idols and staff accounts.
 
 ## Dependeces:
 
-* tweepy
-
-* python-decouple
-
-* asyncio
-
 * discord.py
-
-* os
+ 
+* requests
+ 
+* python-decouple
+ 
+* tweepy
+ 
+* asyncio
+ 
+* psycopg2
+ 
+* psycopg2-binary
+ 
+* python-dotenv
 
 ## Technologies:
 
