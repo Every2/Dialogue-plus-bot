@@ -32,6 +32,8 @@ Jokes and if you want, it can send tweets of idols and staff accounts.
 
 * Discord api
 
+* Postgresql
+
 ## More:
 
 * If you want contribute feel free to send a pull request.
