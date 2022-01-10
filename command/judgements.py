@@ -27,6 +27,10 @@ class Judgements(commands.Cog):
         await ctx.send (url_yuna)
 
 
+    @commands.command(name="yurinyaagree", help="Thumbsup Yurinya")
+    async def silence(self, ctx):
+        url_yurinya="https://imgur.com/a/ml785wl"
+        await ctx.send (url_yurinya)
 
 
 
