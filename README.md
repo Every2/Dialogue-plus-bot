@@ -10,19 +10,7 @@ Jokes and if you want, it can send tweets of idols and staff accounts.
 
 ## Dependeces:
 
-* discord.py
- 
-* requests
- 
-* python-decouple
- 
-* tweepy
- 
-* asyncio
- 
-* psycopg2
- 
-* python-dotenv
+* You can download requirements.txt :)
 
 ## Technologies:
 
