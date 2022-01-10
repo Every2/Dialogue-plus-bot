@@ -22,8 +22,6 @@ Jokes and if you want, it can send tweets of idols and staff accounts.
  
 * psycopg2
  
-* psycopg2-binary
- 
 * python-dotenv
 
 ## Technologies:
