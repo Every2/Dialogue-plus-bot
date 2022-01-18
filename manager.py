@@ -19,7 +19,7 @@ class Manager(commands.Cog):
             print (f"I'm ready {self.bot.user}")
             
             
-            result = urlparse(os.getenv("DATABASE_URL"))
+            result = urlparse(os.getenv(""))
 
             DB_USER = result.username
             DB_PASSWORD = result.password
