@@ -50,7 +50,7 @@ class description(commands.Cog):
 
     @commands.command(name= "sappy", help="description")
     async def sappy(self, ctx):
-        url_sappy="https://cdn.discordapp.com/attachments/882315038189289492/885271771559907418/E9kDIvlXMA8Dpgj.jpeg"
+        url_sappy="https://cdn.discordapp.com/attachments/885246211446165526/934605920057577582/EtT2gcFUUAMXlG-.png"
         
         embed_image = discord.Embed(
             title="Sappy",
