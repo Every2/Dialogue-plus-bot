@@ -7,7 +7,7 @@ class Judgements(commands.Cog):
   
 
     @commands.command(name="neneagree", help="Thumbsup Nene")
-    async def joinha_nene(self, ctx):
+    async def thumbsup_nene(self, ctx):
         url_nene="https://imgur.com/pXFFG1r"
         await ctx.send (url_nene)
 
@@ -15,7 +15,7 @@ class Judgements(commands.Cog):
 
 
     @commands.command(name="ogatadisagree", help="Ogata disagree about your comment")
-    async def discordo_ogata(self, ctx):
+    async def disagree_ogata(self, ctx):
         url_ogata="https://imgur.com/S4vJiLv"
         await ctx.send (url_ogata)
 
@@ -28,9 +28,22 @@ class Judgements(commands.Cog):
 
 
     @commands.command(name="yurinyaagree", help="Thumbsup Yurinya")
-    async def silence(self, ctx):
+    async def Yurinya(self, ctx):
         url_yurinya="https://imgur.com/a/ml785wl"
         await ctx.send (url_yurinya)
+   
+
+    @commands.command(name="sappyagree", help="Thumbsup Sappy")
+    async def sappyt(self, ctx):
+        url_sappy="https://imgur.com/exZLyxM"
+        await ctx.send (url_sappy)
+
+    @commands.command(name="sappydisagree", help="Sappy disagree")
+    async def sappy(self, ctx):
+        url_sappyd="https://imgur.com/Ii6FiFJ"
+        await ctx.send (url_sappyd)
+        
+    
 
 
 
