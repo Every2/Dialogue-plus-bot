@@ -40,7 +40,11 @@ class Meme(commands.Cog):
     async def sad_yurina(self, ctx):
         url_yurina="https://imgur.com/RD2aT24"
         await ctx.send (url_yurina)
-
+    
+    @commands.command(name="colombia", help="colombia!!")
+    async def colombia(self, ctx):
+        url_colombia="https://imgur.com/r1Eclet"
+        await ctx.send (url_colombia)
                       
 def setup(bot):
     bot.add_cog(Meme(bot))
